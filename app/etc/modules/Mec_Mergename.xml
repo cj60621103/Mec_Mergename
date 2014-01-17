@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Mec_Mergename>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.2.1</version>
+    </Mec_Mergename>
+  </modules>
+</config>

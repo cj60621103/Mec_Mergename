@@ -1,0 +1,12 @@
+<?xml version="1.0"?>   
+<layout version="0.2.1">   
+  <mergename_index_index>   
+    <reference name="root">   
+      <action method="setTemplate"><template>page/1column.phtml</template></action>   
+    </reference>   
+    <reference name="content">   
+      <block type="mergename/index" name="mergename_index" template="mergename/index.phtml"/>   
+    </reference>   
+  </mergename_index_index>   
+</layout>   
+	
